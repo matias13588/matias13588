@@ -1,4 +1,4 @@
-@@ -1,11 +1,11 @@
+@@ -1,11 +1,11
 
 # Matías Alejandro Pedulla
 
@@ -7,15 +7,6 @@ I'm Matías, Argentine 🇦🇷 born, Spanish 🇪🇸 citizen, living in Irelan
 Although I graduated from Law School with a JD degree 👨‍⚖️, I decided to take a serious turn in my carreer when I moved to Dublin in 2021. After more than a year working on in Accenture I decided to sign up for a full stack developer bootcamp 💻. Needless to say, it ended up being one of the most interesting things I've done in my life (it still amazes me how much things you can do after a few months of intense learning 👨‍🎓).
 
 My goal now is to get into the labor market to put what I have learned into practice, gain experience, deepen my knowledge and, eventually, be able to contribute something of my own to this field✨.
-
-### ⚡Some info about me:
-
-- Born in 1988 in Buenos Aires, Argentina.
-- Law Degree from Univeristy of Buenos Aires' Law School.
-- More than 10 years of job experience working in legal related offices, both public and private.
-- Worked in Aceenture Ireland as a Payments & Risk Senior Analyst for a major e-commerce platform.
-- Argentinean and Spanish citizen, can live and work in the EU without the need for a visa.
-- Spanish language native speaker, and fluid in English as well.
 
 ## Knowledge and Experience 🔭
 
