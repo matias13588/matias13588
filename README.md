@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hello World! 👋
 
-Hola
+I'm Matías, 🇦🇷Argentine born, 🇪🇸Spanish citizen, living in 🇮🇪Ireland and newby JS developer 😁.
+
+Although I graduated from the University of Buenos Aires' Law School with a JD degree, I decided to take a serious turn in my carreer after I moved to Ireland in 2021. After more than a year working on in Accenture I decided to sign up for a full stack developer course. Needless to say, it ended up being one of the most interesting things I've done in my life (it still amazes me how much things you can do after a few months of intense learning).
+
+My goal now is to get into the labor market to put what I have learned into practice, gain experience, deepen my knowledge and, eventually, be able to contribute something of my own to this field.
+
 
 <!--
 **matias13588/matias13588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hola
