@@ -1,5 +1,3 @@
-@@ -1,11 +1,11
-
 # Matías Alejandro Pedulla
 
 I'm Matías, Argentine 🇦🇷 born, Spanish 🇪🇸 citizen, living in Ireland 🇮🇪 and newby JS developer 😁.
