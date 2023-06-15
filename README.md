@@ -1,4 +1,4 @@
-# Matías Alejandro Pedulla
+# Matías Pedulla
 
 I'm Matías, Argentine 🇦🇷 born, Spanish 🇪🇸 citizen, living in Ireland 🇮🇪 and newby JS developer 😁.
 
